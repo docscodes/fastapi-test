@@ -1,3 +1,6 @@
 fastapi[standard]
 pydantic
 pytest
+httpx
+pytest-asyncio
+asgi-lifespan
